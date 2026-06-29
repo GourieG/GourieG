@@ -149,7 +149,7 @@ me.say_hi()
 ## 🏅 Certifications & Achievements
 
 - 🎓 **60-Hour GenAI Internship** — *Aesthetix Edutech* | AI, ML, Deep Learning & LLMs
-- 📜 *Add more certifications here as you earn them!*
+
 
 ---
 
